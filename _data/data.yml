@@ -32,7 +32,7 @@ sidebar:
     - idiom: English
       level: C1 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: Brazilian Portugues
+    - idiom: Brazilian Portuguese
       level: A1
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
@@ -86,8 +86,8 @@ experiences:
     time: 2021 - Present
     company: Proficient, San Pedro Garza García
     details: |
-        - Create on-demand e-commerces for clients using Shopify and liquid
-        - Build portfolios and blogs using WordPress.org as CMS
+        - Create on demand e-commerces for clients using Shopify and liquid
+        - Make portfolios and blogs using WordPress.org as CMS
         - Build responsive web systems using React for SaaS projects
         - Design the UI of e-commerces and blogs
 
@@ -126,13 +126,13 @@ skills:
       level: 80%
 
     - name: Sass
-      level: 60%
+      level: 40%
 
     - name: Tailwind
       level: 80%
 
     - name: Bootstrap
-      level: 60%
+      level: 40%
 
     - name: JS
       level: 60%
