@@ -82,31 +82,32 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Jr. Front-end Developer
+    time: 2021 - Present
+    company: Proficient, San Pedro Garza García
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+        - Create on-demand e-commerces for clients using Shopify and liquid
+        - Build portfolios and blogs using WordPress.org as CMS
+        - Build responsive web systems using React for SaaS projects
+        - Design the UI of e-commerces and blogs
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Front-end Developer / Founder
+    time: 2020 - Present
+    company: Obelisck, Boca del Río
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Obelisck was founded with the idea of joining forces with other freelancers from my town to build larger, more solid and full-stack web applications and pages.
+        - Find and get potential clients
+        - Design the UI of landing pages, web systems and blogs
+        - Organize the team and manage its projects
+        - Build responsive web systems using React
+
+  - role: Trainee Front-end Developer
+    time: 2019 - 2020
+    company: Stackcode, Veracruz
+    details: |
+        - Created static pages using vanilla HTML, CSS and JS
+        - Built multiple portfolios, blogs and magazine pages using WordPress.org as CMS
+        - Prototyped components in React for SaaS projects
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
