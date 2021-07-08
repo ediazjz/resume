@@ -12,28 +12,28 @@ sidebar:
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
-  website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  email: me@ediazjz.dev
+  phone: 229 337 1297
+  website: ediazjz.dev
+  linkedin: ediazjz
+  github: ediazjz
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@ediazjz'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
-    - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    - idiom: English
+      level: C1 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+
+    - idiom: Brazilian Portugues
+      level: A1
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
